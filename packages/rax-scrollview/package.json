@@ -41,11 +41,11 @@
   },
   "dependencies": {
     "classnames": "^2.2.6",
+    "rax": "^1.0.0",
     "rax-find-dom-node": "^1.0.0",
     "rax-refreshcontrol": "^1.0.0",
-    "rax": "^1.0.0",
-    "rax-view": "^1.1.0",
     "rax-text": "^1.0.1",
+    "rax-view": "^1.1.0",
     "universal-env": "^1.0.0"
   },
   "peerDependencies": {

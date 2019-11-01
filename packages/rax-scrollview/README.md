@@ -161,7 +161,7 @@ const styles = {
   },
   sticky: {
     position: 'sticky',
-    width: '750',
+    width: '750rpx',
     backgroundColor: '#cccccc',
   },
   container: {
@@ -186,7 +186,7 @@ const styles = {
   },
   eventLogBox: {
     padding: '10rpx',
-    margin: '10rpx;,
+    margin: '10rpx',
     height: '80rpx',
     borderWidth: '1rpx',
     borderColor: '#f0f0f0',
